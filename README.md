@@ -28,11 +28,17 @@ O agente possui as seguintes funções principais:
 - Gera links automáticos para lojas (C&A e Renner) com sugestões de peças adequadas ao perfil identificado.
 
 O fluxo de atendimento segue rigorosamente as etapas:
-1. Solicitação de foto do rosto
-2. Análise de coloração pessoal
-3. Solicitação das medidas corporais
-4. Classificação do biotipo
-5. Recomendações completas de roupas e links
+#### 1. Solicitação de foto do rosto
+<img src="assets/SolicitacaoFoto.png" alt="drawing" width="400"/>
+
+#### 2. Análise de coloração pessoal e Solicitação das medidas corporais
+<img src="assets/AnaliseColoracao.png" alt="drawing" width="400"/>
+
+#### 3. Classificação do biotipo
+<img src="assets/ClassificacaoBiotipo.png" alt="drawing" width="400"/>
+
+#### 5. Recomendações completas de roupas e links
+<img src="assets/Recomendacoes.png" alt="drawing" width="400"/>
 
 **Importante:** O algoritmo de colorimetria utiliza KMeans para extração das cores dominantes e tem acurácia média de 70%.
 
