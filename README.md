@@ -38,9 +38,9 @@ O fluxo de atendimento segue rigorosamente as etapas:
 
 ## Demonstração em Vídeo
 
-![](assets/VideoFuncionamento.mp4)
+![](assets/VideoFuncionamento.gif)
 
-[Clique aqui para abrir o vídeo em nova aba](assets/VideoFuncionamento.mp4)
+[Clique aqui para abrir o vídeo em nova aba](assets/VideoFuncionamento.gif)
 
 
 ## Referências
