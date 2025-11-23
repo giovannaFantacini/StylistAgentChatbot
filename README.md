@@ -38,12 +38,9 @@ O fluxo de atendimento segue rigorosamente as etapas:
 
 ## Demonstração em Vídeo
 
-<br>
-<video src="assets/VideoFuncionamento.mp4" controls width="600">
-	Seu navegador não suporta o elemento de vídeo.
-</video>
+[](assets/VideoFuncionamento.gif)
 
-[Clique aqui para abrir o vídeo em nova aba](assets/VideoFuncionamento.mp4)
+[Clique aqui para abrir o vídeo em nova aba](assets/VideoFuncionamento.gif)
 
 
 ## Referências
