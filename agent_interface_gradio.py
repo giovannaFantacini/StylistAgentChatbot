@@ -18,6 +18,7 @@ from azure.ai.agents.models import (
 
 # Carregar variáveis de ambiente
 load_dotenv()
+
 project_endpoint = os.environ["PROJECT_ENDPOINT"]
 agent_id = os.environ.get("AGENT_ID")
 
