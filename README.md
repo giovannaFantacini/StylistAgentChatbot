@@ -17,7 +17,7 @@ O agente possui as seguintes funções principais:
 - Recebe uma imagem do rosto do usuário e utiliza o algoritmo KMeans para identificar as cores dominantes.
 - Classifica as cores extraídas em estações (Primavera, Verão, Outono, Inverno) usando regras de colorimetria.
 - Retorna uma paleta personalizada e estatísticas de temperatura, saturação e luminosidade das cores.
-- **Atenção:** O algoritmo de colorimetria baseado em KMeans tem acurácia média de 70%, podendo variar conforme a qualidade da imagem enviada.
+- **Atenção:** O algoritmo de colorimetria utiliza KMeans para extração das cores dominantes e tem acurácia média de 70%.
 
 ### 2. Classificação de Biotipo Corporal
 - Solicita as medidas de ombro, cintura e quadril do usuário.
@@ -29,22 +29,20 @@ O agente possui as seguintes funções principais:
 
 O fluxo de atendimento segue rigorosamente as etapas:
 #### 1. Solicitação de foto do rosto
-<img src="assets/SolicitacaoFoto.png" alt="drawing" width="400"/>
+<img src="assets/SolicitacaoFoto.png" width="1000"/>
 
 #### 2. Análise de coloração pessoal e Solicitação das medidas corporais
-<img src="assets/AnaliseColoracao.png" alt="drawing" width="400"/>
+<img src="assets/AnaliseColoracao.png" width="1000"/>
 
 #### 3. Classificação do biotipo
-<img src="assets/ClassificacaoBiotipo.png" alt="drawing" width="400"/>
+<img src="assets/ClassificacaoBiotipo.png" width="1000"/>
 
-#### 5. Recomendações completas de roupas e links
-<img src="assets/Recomendacoes.png" alt="drawing" width="400"/>
-
-**Importante:** O algoritmo de colorimetria utiliza KMeans para extração das cores dominantes e tem acurácia média de 70%.
+#### 4. Recomendações completas de roupas e links
+<img src="assets/Recomendacoes.png" width="1000"/>
 
 ## Demonstração em Vídeo
 
-![](assets/VideoFuncionamento.gif)
+<img src="assets/VideoFuncionamento.gif" width="1000"/>
 
 [Clique aqui para abrir o vídeo em nova aba](assets/VideoFuncionamento.gif)
 
