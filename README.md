@@ -29,22 +29,23 @@ O agente possui as seguintes funções principais:
 
 O fluxo de atendimento segue rigorosamente as etapas:
 #### 1. Solicitação de foto do rosto
-<img src="assets/SolicitacaoFoto.png" width="1000"/>
+<img width="1722" height="784" alt="SolicitacaoFoto" src="https://github.com/user-attachments/assets/bddeb0ae-111f-4d90-a5f0-c446fb022c8b" />
 
 #### 2. Análise de coloração pessoal e Solicitação das medidas corporais
-<img src="assets/AnaliseColoracao.png" width="1000"/>
+<img width="1732" height="783" alt="AnaliseColoracao" src="https://github.com/user-attachments/assets/ab48e1cf-845e-4bc3-829d-8fa432c573d4" />
+
 
 #### 3. Classificação do biotipo
-<img src="assets/ClassificacaoBiotipo.png" width="1000"/>
+
+<img width="1720" height="771" alt="ClassificacaoBiotipo" src="https://github.com/user-attachments/assets/931ccbfc-1848-42bb-8007-71529e147542" />
 
 #### 4. Recomendações completas de roupas e links
-<img src="assets/Recomendacoes.png" width="1000"/>
+<img width="1723" height="777" alt="Recomendacoes" src="https://github.com/user-attachments/assets/9ede0f2e-03e5-40ef-ae1b-973752087cb1" />
+
 
 ## Demonstração em Vídeo
 
-<img src="assets/VideoFuncionamento.gif" width="1000"/>
-
-[Clique aqui para abrir o vídeo em nova aba](assets/VideoFuncionamento.gif)
+[Clique aqui para abrir o vídeo em nova aba](https://github.com/user-attachments/assets/45fefcfc-470e-41eb-a029-44b3e5f90a29)
 
 
 ## Referências
