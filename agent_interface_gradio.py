@@ -6,8 +6,8 @@ import gradio as gr
 from azure.ai.projects import AIProjectClient
 from azure.identity import DefaultAzureCredential
 from dotenv import load_dotenv
-from StylistAgentChatbot.colorimetria import analisar_imagem
-from StylistAgentChatbot.biotipo import classificar_biotipo
+from colorimetria import analisar_imagem
+from biotipo import classificar_biotipo
 from azure.ai.agents.models import (
     FunctionTool,
     MessageInputTextBlock,
