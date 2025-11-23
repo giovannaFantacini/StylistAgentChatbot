@@ -37,7 +37,14 @@ O fluxo de atendimento segue rigorosamente as etapas:
 **Importante:** O algoritmo de colorimetria utiliza KMeans para extração das cores dominantes e tem acurácia média de 70%.
 
 ## Demonstração em Vídeo
-Confira o vídeo de funcionamento do agente no diretório [`assets/VideoFuncionamento.mp4`](assets/VideoFuncionamento.mp4).
+
+<br>
+<video src="assets/VideoFuncionamento.mp4" controls width="600">
+	Seu navegador não suporta o elemento de vídeo.
+</video>
+
+[Clique aqui para abrir o vídeo em nova aba](assets/VideoFuncionamento.mp4)
+
 
 ## Referências
 - [Guia rápido Gradio](https://www.gradio.app/guides/quickstart)
